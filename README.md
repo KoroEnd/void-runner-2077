@@ -30,3 +30,11 @@ El juego funciona de la siguiente manera:
 6. El jugador debe recoger los sonidos para poder mejorar sus sonidos
 7. El jugador debe llegar al final del nivel para poder pasar al siguiente nivel
 8. El jugador debe llegar al final del juego para poder ganar
+
+## Capturas del juego en funcionamiento
+
+![alt text](Menu.jpg)
+
+![alt text](Comienzo.jpg)    
+
+![alt text](Ataque_Enemigo.jpg)
